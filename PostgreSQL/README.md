@@ -5,8 +5,10 @@ PostgreSQL is an open source relational database management system (RDBMS). It i
 ## Installation
 
 ```sh
-brew install postgres
+brew install postgresql@14
 ```
+
+{% embed url="https://www.moncefbelyamani.com/how-to-install-postgresql-on-a-mac-with-homebrew-and-lunchy/" %}
 
 After this, we can test the installation status by checking the version of installed PostgreSQL
 
