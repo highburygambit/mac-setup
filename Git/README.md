@@ -1,4 +1,4 @@
-# Git and GitHub
+# Git
 
 What's a developer without [Git](http://git-scm.com/)? To install, run:
 
@@ -133,3 +133,9 @@ If you are setting up a new repo, add at least one file and commit first. Then, 
 git remote add origin git@github.com:<username>/<repo-name>.git
 git push -u origin master
 ```
+
+{% embed url="https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3#step-1" %}
+
+{% embed url="https://stackoverflow.com/questions/62625513/i-have-2-github-accounts-how-can-i-use-both-when-i-am-working-in-vs-code" %}
+
+{% embed url="https://stackoverflow.com/questions/19662713/where-do-i-find-the-bashrc-file-on-mac/19662865#19662865" %}
