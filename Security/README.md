@@ -31,3 +31,15 @@ The following steps were taken from the [official apple support page](https://su
 3. Click the Lock button, then enter an administrator name and password.
 4. Click Turn On FileVault.
 5. Follow the instructions. In my opinion you should create a local and offline possibility to disable encryption, when you are asked how to regain access in case of anything.
+
+## Use a hardware key as a smart card
+
+{% embed url="https://support.yubico.com/hc/en-us/articles/360016649059-Using-Your-YubiKey-as-a-Smart-Card-in-macOS" %}
+
+## Add hardware key to iCloud account
+
+{% embed url="https://www.yubico.com/blog/how-to-add-yubikeys-to-apple-id-a-step-by-step-guide/?gclid=EAIaIQobChMIn6OCxcjh_gIVMg99Ch3TqwIvEAAYASAAEgIc8_D_BwE" %}
+
+Add hardware key to Google account
+
+{% embed url="https://www.yubico.com/works-with-yubikey/catalog/google-accounts/" %}
