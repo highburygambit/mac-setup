@@ -34,18 +34,18 @@ brew install docker docker-machine
 brew install --cask virtualbox
 ```
 
->If you encounter an issue with the installer with an error message like
+> If you encounter an issue with the installer with an error message like
 
 ```sh
 The install failed (The installer encountered an error that caused the installation to fail.
 Contact the software manufacturer for assistance.)
 ```
 
->Use the following When you do fail, turn on System Preference and see if ‘System software from developer “Oracle America, inc” was blocked from loading.’ If you see that message, click Allow button and try to install again.
+> Use the following When you do fail, turn on System Preference and see if ‘System software from developer “Oracle America, inc” was blocked from loading.’ If you see that message, click Allow button and try to install again.
 
 This should complete the installation
 
----
+***
 
 Now to create a Machine, follow the following steps:
 
@@ -76,3 +76,5 @@ https://hub.docker.com/editions/community/docker-ce-desktop-mac/
 ```
 
 This installation should provide you all the necessary GUI tools
+
+{% embed url="https://code.visualstudio.com/docs/containers/overview" %}

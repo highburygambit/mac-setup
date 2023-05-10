@@ -6,8 +6,8 @@
 
 When installing LaTex, two following options are given to users:
 
-  1. Install MacTeX with builtin editor (TexLive) - (3.2GB)
-  2. Install BasicTeX only (100MB) + your personal LaTeX editor
+1. Install MacTeX with builtin editor (TexLive) - (3.2GB)
+2. Install BasicTeX only (100MB) + your personal LaTeX editor
 
 ### MacTeX vs BasicTeX
 
@@ -15,8 +15,7 @@ MacTeX includes additional programs such as an editor and a BibTeX reference man
 
 #### MacTex
 
-Download [MacTex](http://www.tug.org/mactex/), or use `brew install --cask mactex`.
-You can read more about MacTex in [What is installed (pdf)](https://www.tug.org/mactex/What_Is_Installed.pdf).
+Download [MacTex](http://www.tug.org/mactex/), or use `brew install --cask mactex`. You can read more about MacTex in [What is installed (pdf)](https://www.tug.org/mactex/What\_Is\_Installed.pdf).
 
 Since MacTex installs a LaTex editor ([TexMaker](http://www.xm1math.net/texmaker/download.html)) already, installing another LaTeX editor is unnecessary.
 
@@ -26,17 +25,19 @@ Download [BasicTeX](http://tug.org/mactex/morepackages.html), or use `brew insta
 
 You may use `tlmgr` to install tools/packages that you need.
 
-> **Note**: You may find CLI tool `tlmgr` cumbersome to use, in that case install GUI for `tlmgr` - [*TeX Live Utility*](https://amaxwell.github.io/tlutility/) - `brew install --cask tex-live-utility`.
+> **Note**: You may find CLI tool `tlmgr` cumbersome to use, in that case install GUI for `tlmgr` - [_TeX Live Utility_](https://amaxwell.github.io/tlutility/) - `brew install --cask tex-live-utility`.
 
 Now you should pick a LaTeX editor, here are some to choose from:
 
-  1. [TexMaker](http://www.xm1math.net/texmaker/)
-  2. [TeXstudio](http://texstudio.sourceforge.net/)
-  3. [TeXworks](https://github.com/TeXworks/texworks/releases)
-  4. [TeXShop](http://pages.uoregon.edu/koch/texshop/)
-  5. [LyX](http://www.lyx.org/)
-  6. [TeXlipse](http://texlipse.sourceforge.net/)
-  7. [Sublime Text 3 - LaTeXTools](https://github.com/SublimeText/LaTeXTools)
-  8. [Visual Studio Code - LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+1. [TexMaker](http://www.xm1math.net/texmaker/)
+2. [TeXstudio](http://texstudio.sourceforge.net/)
+3. [TeXworks](https://github.com/TeXworks/texworks/releases)
+4. [TeXShop](http://pages.uoregon.edu/koch/texshop/)
+5. [LyX](http://www.lyx.org/)
+6. [TeXlipse](http://texlipse.sourceforge.net/)
+7. [Sublime Text 3 - LaTeXTools](https://github.com/SublimeText/LaTeXTools)
+8. [Visual Studio Code - LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 
-> **Note**: You may want to use a PDF reader that watches your PDF files, like Skim (can be installed by `brew install --cask skim` and *Sync* feature can be enabled in Preferences -> Sync).
+> **Note**: You may want to use a PDF reader that watches your PDF files, like Skim (can be installed by `brew install --cask skim` and _Sync_ feature can be enabled in Preferences -> Sync).
+
+{% embed url="https://github.com/sylvainhalle/gitbook-latex" %}

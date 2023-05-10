@@ -15,6 +15,8 @@
   * [Virtualenv](Python/virtualenv.md)
   * [Numpy-Scipy](Python/numpy.md)
   * [IPython](Python/ipython.md)
+* [R](r.md)
+* [Julia](julia.md)
 * [CPlusPlus](Cpp/README.md)
 * [Java](Java/README.md)
   * [SDKMAN!](Java/sdkman.md)
